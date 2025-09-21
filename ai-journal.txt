@@ -1,1 +1,10 @@
 Week 1: This week me and my team used AI to get many ideas on what we should do for our final project because we had some interests but did not know what direction we should go with it. Chat GPT gave us many good options to consider or branch our own ideas from: https://chatgpt.com/share/68c36587-a6b4-800e-a2bf-5a68f507622f
+
+
+Week 2: This week while brainstorming ideas I came up with one that could be great for our project.
+I was thinking of something that rated off-campus housing options and gave the rental a score based on a few factors
+I gave ChatGPT my idea by telling it this: "What about something that can help university of Maryland students. Something with finding rentals. Ideas: Find best pricing pulling data such as distance from classes Providing a score for the distance of food, grocery or things to do Etc"
+It then provided me alot of different routes me and my team could go with this project and how they could fit into the scope of the project.
+I presented my team with the idea and why it could be good and they said we should do that, we then started brainstorming different ideas we could do.
+After our ideas were on the google doc we used Chat GPT to help improve our ideas and tie them together.
+Link: https://chatgpt.com/share/68c36587-a6b4-800e-a2bf-5a68f507622f
