@@ -8,3 +8,10 @@ It then provided me alot of different routes me and my team could go with this p
 I presented my team with the idea and why it could be good and they said we should do that, we then started brainstorming different ideas we could do.
 After our ideas were on the google doc we used Chat GPT to help improve our ideas and tie them together.
 Link: https://chatgpt.com/share/68c36587-a6b4-800e-a2bf-5a68f507622f
+
+
+Week 3:
+While attempting to get data on rental properties in the college park area I asked ChatGPT and Grok if they could scrape the data from the platform we needed data from
+and it was not able to accomplish this task. We will find more ways we use AI when we can to help us save time on various tedius tasks.
+https://grok.com/share/c2hhcmQtNA%3D%3D_99e1fbbd-0aa7-4703-8da3-f78b906620aa
+
