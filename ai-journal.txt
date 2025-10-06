@@ -15,3 +15,11 @@ While attempting to get data on rental properties in the college park area I ask
 and it was not able to accomplish this task. We will find more ways we use AI when we can to help us save time on various tedius tasks.
 https://grok.com/share/c2hhcmQtNA%3D%3D_99e1fbbd-0aa7-4703-8da3-f78b906620aa
 
+
+Week 4:
+I was having issues with exersize 10 on the Week 4 exersises so I asked chat gpt what I was wrong with my code, it was not able to help with a solution so I then asked grok and it was not able to help either. They both said their was an issue with the test code and I was not sure what to do for that problem.
+
+I also used AI to help me get some ideas for a wireframe for the project. I want to do the wireframe using figma and it was able to create me a starting figma file I will fine tune it and implement some of my UX experience from past projects to determine how the website will flow for users.
+https://chatgpt.com/share/68e3393d-f508-800e-b388-0f891c5761d8
+https://grok.com/share/c2hhcmQtNA%3D%3D_2f2d2c14-89fc-42d9-85a0-49a82a74d9c7
+
