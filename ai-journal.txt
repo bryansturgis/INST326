@@ -23,3 +23,19 @@ I also used AI to help me get some ideas for a wireframe for the project. I want
 https://chatgpt.com/share/68e3393d-f508-800e-b388-0f891c5761d8
 https://grok.com/share/c2hhcmQtNA%3D%3D_2f2d2c14-89fc-42d9-85a0-49a82a74d9c7
 
+
+Week 5:
+This week I used AI in order to piece together functions and make them more strategic.
+I had a good idea of what functions our project needed but I just needed it mapped out so I could best decide
+the functions to work on first in order to utilize them most effectively.
+
+I also needed help with a function that retrieved geographic coordinates based off the input of an address.
+AI helped me learn how to implement this pretty simple function that would have taken a lot longer to create without AI.
+
+https://chatgpt.com/share/68ec710e-ef4c-800e-b254-07341c1ecf37
+
+I also was using Figma and noticed Figma make, its an AI Figma has and it help create an amazing working wireframe. I entered in all of
+our project info and some more ideas of what I wanted into chat GPT and it designed me the best prompt to give figma. I then pasted that into
+Figma make and it designed us the best wireframe I could've ever imagined. We will be making edits to it, but this definitly gives us design ideas I can implement using HTML and CSS
+
+https://www.figma.com/make/yAVOoLSpDiYlTbqelAKiuC/Responsive-Rental-Analysis-App?node-id=0-1&p=f&t=SGTSoWMAZPrxNZZA-0&fullscreen=1
