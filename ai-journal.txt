@@ -39,3 +39,7 @@ our project info and some more ideas of what I wanted into chat GPT and it desig
 Figma make and it designed us the best wireframe I could've ever imagined. We will be making edits to it, but this definitly gives us design ideas I can implement using HTML and CSS
 
 https://www.figma.com/make/yAVOoLSpDiYlTbqelAKiuC/Responsive-Rental-Analysis-App?node-id=0-1&p=f&t=SGTSoWMAZPrxNZZA-0&fullscreen=1
+
+
+Week 6:
+I did not have to use AI this week for class, but I will be using it in order to help me with the project work I will be working on tommorrow
