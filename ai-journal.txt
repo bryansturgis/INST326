@@ -43,3 +43,7 @@ https://www.figma.com/make/yAVOoLSpDiYlTbqelAKiuC/Responsive-Rental-Analysis-App
 
 Week 6:
 I did not have to use AI this week for class, but I will be using it in order to help me with the project work I will be working on tommorrow
+
+Week 7:
+I used AI to help me with creating the best plan in order to build out our classes. We came up with the functions we needed and what they needed to consist of but we needed
+the best way to start it. We also used AI to help create tests for the classes we created. I also used it this week in order to debug multiple issues I had throught coding: https://chatgpt.com/g/g-p-69026c2426588191ab36cc8cb0c4c407-inst-326-project/shared/c/6907211c-3584-8326-880f-5064516dd7a5?owner_user_id=user-4lR6LYjoOqGp5Weim0H0mJ41
