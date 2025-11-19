@@ -50,6 +50,11 @@ the best way to start it. We also used AI to help create tests for the classes w
 
 
 
+Week 8:
+This week I used Chat GPT to help me code and develop a webiste for this business I am starting. It has been very helpful
+for creating HTML, CSS, and JS and I have been learning alot by using it. Chat GPT is not always perfect so I do have to debug or improve some things
+but for the most part it has been a great tool. I plan on using AI to help me and my team build an interface for our project in order to make a fully functioning
+program that we can turn in after we develop the backend and data handling using python.
 
 
 Week 9:
