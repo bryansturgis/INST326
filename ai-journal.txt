@@ -61,3 +61,11 @@ Week 9:
 I still didn't fully understand Polymorphism, Abstract classes, and Composition after learning in class and using the notes. I used Chat GPT to fully explain in an easy way which
 each of these were and provide real world examples for each. This helped me learn how I could potentially use them in my classes. 
 https://chatgpt.com/share/691d2d67-1994-800e-8d9a-0f9bebb290ae
+
+
+week 12:
+I used AI to help me design and craete my email campaigns for black friday and cyber monday.
+It did a pretty good job but the version Chat GPT created I could tell that AI wrote it and
+I know people don't really read emails nowadays so I had to simplify, summarize, andadd my own
+sales tactics. The emails it wrote was too salesy, from my experience people do not convert from this style
+over a more simple and easy to ready email. https://chatgpt.com/share/6935fe84-143c-800e-aa8e-19a67162d491
