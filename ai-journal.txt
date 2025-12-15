@@ -69,3 +69,11 @@ It did a pretty good job but the version Chat GPT created I could tell that AI w
 I know people don't really read emails nowadays so I had to simplify, summarize, andadd my own
 sales tactics. The emails it wrote was too salesy, from my experience people do not convert from this style
 over a more simple and easy to ready email. https://chatgpt.com/share/6935fe84-143c-800e-aa8e-19a67162d491
+
+
+
+Week 13:
+I used AI this week for coming up with script ideas and hook intros for my TikTok where I do affiliate marketing
+for various products and it helped me get alot of good ideas. I also used AI to help me build the live demo for our
+INST326 project and it helped me fix bugs and improve the UI of the program with emojis and better wording.
+https://chatgpt.com/share/693fabad-0fbc-800e-a256-8344dcbe884b
